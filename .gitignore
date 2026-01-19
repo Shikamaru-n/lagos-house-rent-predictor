@@ -1,0 +1,12 @@
+# Python ignores
+__pycache__/
+
+# Jupyter / notebooks
+*.ipynb_checkpoints
+
+# Folders
+client/
+model/
+server/
+
+rent.csv
